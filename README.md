@@ -3,5 +3,8 @@ Money Tracker WebApp is a simple application to manage and track your expenses a
 
 # Features
 Record expenses and income.
+
 Categorize transactions for easy tracking.
+
 Real-time updates.
+
